@@ -1,0 +1,7 @@
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\bin\Wcf_Crud.dll.config
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\bin\Wcf_Crud.dll
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\bin\Wcf_Crud.pdb
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\obj\Debug\Wcf_Crud.csproj.AssemblyReference.cache
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\obj\Debug\Wcf_Crud.csproj.CoreCompileInputs.cache
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\obj\Debug\Wcf_Crud.dll
+E:\Rahul yadav\Wcf_Crud\Wcf_Crud\obj\Debug\Wcf_Crud.pdb
